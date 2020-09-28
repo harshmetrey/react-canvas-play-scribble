@@ -3,7 +3,8 @@ import React, { useState, useEffect } from "react";
 import { Card, Input, Button } from "@material-ui/core";
 
 function Home(props) {
-  const [name, setName] = useState(null);
+  const playerName = localStorage.getItem('playerName')
+  const [name, setName] = useState(playerName);
   const [error, setError] = useState(null);
 
   const handleOnSubmit = () => {
