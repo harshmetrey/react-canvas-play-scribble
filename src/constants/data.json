@@ -1,0 +1,64 @@
+{
+  "players": [
+    {
+      "name": "MajorArya",
+      "points": 10
+    },
+    {
+      "name": "Gabu",
+      "points": 20
+    },
+    {
+      "name": "Dima",
+      "points": 15
+    },
+    {
+      "name": "Chetu",
+      "points": 5
+    },
+    {
+      "name": "YashGu",
+      "points": 20
+    },
+    {
+      "name": "Pandit",
+      "points": 15
+    }
+  ],
+  "words": [
+    "angle",
+    "ant",
+    "apple",
+    "arch",
+    "arm",
+    "army",
+    "baby",
+    "bag",
+    "ball",
+    "band",
+    "basin",
+    "basket",
+    "bath",
+    "bed",
+    "bee",
+    "bell",
+    "berry",
+    "bird",
+    "blade",
+    "board",
+    "boat",
+    "cake",
+    "camera",
+    "card",
+    "cart",
+    "carriage",
+    "cat",
+    "chain",
+    "cheese",
+    "chest",
+    "chin",
+    "church",
+    "circle",
+    "clock"
+  ]
+}

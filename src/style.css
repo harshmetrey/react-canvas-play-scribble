@@ -1,0 +1,45 @@
+h1, p {
+  font-family: Lato;
+}
+
+
+
+.canvas-guess-area {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.guess-list {
+  min-height: 60px;
+  border: 1px solid black;
+  max-height: 80px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+ul>li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.win-container {
+  position: absolute;
+  background-color: grey;
+  height: 100%;
+  width: 100%;
+}
+
+.no-pointer {
+  cursor: not-allowed;
+}
+
+.correct {
+  color: green
+}
+
+.wrapper-container-home {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}  
